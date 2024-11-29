@@ -1,16 +1,18 @@
-## Hi there 👋
+# srbrayanzinho
+BRAYAN🖐️
 
-<!--
-**srbrayazinho/srbrayazinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GOSTO DE JOGAR VIDEOGAMES🎮
 
-Here are some ideas to get you started:
+SOU PREGUIÇOSO😌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+NACIONALIDADE🇻🇪
+
+GOSTO DE ESPORTES⚽🏀🏐
+
+estou estudando na plataforma [alura](www.alura.com.br)📘
+
+estou desenvolvendo na linguagem do javascript
+
+utilizo este espaço para minha organização e compartilhamento dos meus projeto
+
+![](https://media1.tenor.com/m/HBX5v-RgQJgAAAAd/anime-ayanokoji.gif)
